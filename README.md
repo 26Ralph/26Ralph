@@ -1,4 +1,7 @@
-![MasterHead](https://blog.adobe.com/en/publish/2020/09/24/media_196dce6c75e0c969dc682bb29b6b506f23fe44c54.png?width=1200&format=pjpg&optimize=medium)
+![MasterHead](https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/06/avatar-the-last-airbender-Cropped.jpg)
+
+
+
 <h1 align="center">Hi 👋, My name is Ralph Lopez</h1>
 
 - 🏙 I'm based in Los Angeles
@@ -9,8 +12,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ralph lopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ralph lopez" height="30" width="40" /></a>
-
 <a href="https://linkedin.com/in/ralph lopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ralph lopez" height="30" width="40" /></a>
 </p>
 
