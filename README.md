@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM)](https://rishavchanda.io)
+![MasterHead]([https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Computer-screen-code-glitch-animation-gif-background-free.gif/1024px-Computer-screen-code-glitch-animation-gif-background-free.gif](https://hoodzpahdesign.com/wp-content/uploads/2020/12/Rodman_Haircuts_V4_dribbble.gif))
 <h1 align="center">Hi 👋, I'm Ralph Lopez</h1>
 <h3 align="center">A passionate frontend developer from US</h3>
 
