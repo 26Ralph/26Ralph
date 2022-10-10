@@ -1,5 +1,6 @@
+[![MasterHead](https://blog.adobe.com/en/publish/2020/09/24/media_196dce6c75e0c969dc682bb29b6b506f23fe44c54.png?width=1200&format=pjpg&optimize=medium)]
 <h1 align="center">Hi 👋, I'm Ralph Lopez</h1>
-<h3 align="center">A passionate frontend developer from US</h3>
+<h3 align="center">A Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=26ralph&label=Profile%20views&color=0e75b6&style=flat" alt="26ralph" /> </p>
 
