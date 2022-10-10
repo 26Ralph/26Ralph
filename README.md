@@ -3,7 +3,7 @@
 
 - 🏙 I'm based in Los Angeles
 - 💻 I'm currently working on  
-- 🌱 I’m currently learning **Web Development & JS **
+- 🌱 I’m currently learning ** Web Development & JS **
 
 
 
