@@ -22,8 +22,8 @@
 </a>  
 </div>  
 
-<h4 align="left">Github Stats</h4>
-<p align="left">
+<h4 align="left">Github</h4>
+<p align="left"> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=26ralph&show_icons=true&locale=en" alt="26ralph" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=26ralph&" alt="26ralph" /></p>
