@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, My name is Ralph Lopez</h1>
 
-<h2 align="left"> Full Stack Freelance Developer </h2>
+<h2 align="left"> Student Developer </h2>
 
 - 🏙 I'm based in Los Angeles
 - 💻 I'm currently working on **VISIONARY**  
